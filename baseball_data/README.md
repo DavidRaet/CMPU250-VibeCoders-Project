@@ -56,8 +56,6 @@ Together with the eight shared variables, these describe all 31 batting columns.
 | `Sacrifice_Flies` | Count | Credited sacrifice flies (SF). |
 | `Intentional_Bases_on_Balls` | Count | Intentional walks received, which is also a subset of `Base_On_Balls`. |
 
-## Pitching variables
-
 
 ## Project-created and proposed variables
 
